@@ -1,60 +1,63 @@
 # 🚀 My Learning Journey
 
-Hi! I'm a B.Tech CSE (AI & ML) student from India, currently learning programming and web development. This repository documents my daily learning progress, coding practice, and projects as I work toward becoming a Software Engineer.
+Hi! I'm a B.Tech Computer Science student specializing in AI & ML. I'm building my programming skills through daily practice, mini-projects, and hands-on learning.
 
-## 📅 Daily Progress
+My goal is to strengthen my problem-solving skills, build real-world projects, and prepare for software engineering internships.
 
-### ✅ Day 1
-- Python Basics
-- Variables
-- Data Types
-- Operators
-- Type Conversion
-- First HTML Page
+## 📚 Daily Learning Progress
 
-### ✅ Day 2
-- Strings
-- Conditional Statements
-- String Methods
-- Practice Problems
+### ✅ Day 1 — Python Fundamentals
+- Variables and data types
+- Operators and type conversion
+- Basic programming practice
+- First HTML page
 
-### ✅ Day 3
-- Lists
-- List Methods
-- List Slicing
-- Tuples
-- Tuple Methods
-- Practice Questions
+### ✅ Day 2 — Strings and Conditions
+- String operations and methods
+- Conditional statements
+- Python practice problems
 
-### ✅ Day 4
-- Dictionaries
-- Dictionary Methods
-- Nested Dictionaries
-- Dictionary Practice Questions
-- Sets
-- Set Methods
-- Set Practice Questions
+### ✅ Day 3 — Lists and Tuples
+- Lists and list methods
+- List slicing
+- Tuples and tuple methods
+- Practice questions
+
+### ✅ Day 4 — Dictionaries and Sets
+- Dictionaries and nested dictionaries
+- Dictionary methods
+- Sets and set methods
+- Practice questions
+
+### ✅ Day 5 — Loops
+- `for` and `while` loops
+- Python's `range()` function
+- `break` and `continue`
+- `pass` statement
+- Loop practice problems
+
+## 💻 Mini Projects
+
+- [Python Rent Calculator](https://github.com/loomlogic01/python-rent-calculator)
+- [Rock Paper Scissors Game](https://github.com/loomlogic01/rock-paper-scissors-python)
+- [Tic-Tac-Toe Game](https://github.com/loomlogic01/tic-tac-toe-python)
 
 ## 🛠️ Technologies I'm Learning
-- ✅ Python
-- ✅ HTML
-- 🔄 CSS (Coming Soon)
-- 🔄 JavaScript (Coming Soon)
-- 🔄 React (Coming Soon)
-- 🔄 Java (Coming Soon)
-- 🔄 DSA in Python (Coming Soon)
-- 🔄 Git & GitHub (Learning)
 
-## 🎯 Goal
+- Python
+- HTML and CSS
+- JavaScript and React
+- Java and Data Structures & Algorithms
+- Git and GitHub
+
+## 🎯 My Goals
+
 - Build a strong programming foundation
-- Master Data Structures & Algorithms
-- Learn Full-Stack Web Development
-- Build real-world projects
-- Secure a Software Engineering Internship
+- Improve problem-solving and DSA skills
+- Develop practical software projects
+- Explore AI & ML and web development
+- Secure a software engineering internship
 
 ---
-⭐ Thanks for visiting my learning journey! Feel free to explore my progress.
-## 🎯 Goal
-Become a Full Stack Developer and secure internships by the end of my 2nd year.
 
-Thanks for visiting my repository! 😊
+⭐ Thanks for visiting my learning journey! I'm learning step by step and improving with every project.
